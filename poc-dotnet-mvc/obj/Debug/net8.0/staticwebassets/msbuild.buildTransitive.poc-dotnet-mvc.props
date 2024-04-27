@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/poc-dotnet-mvc.props" />
+</Project>
